@@ -1,1 +1,9 @@
+https://developers.google.com/machine-learning
 
+https://www.ibm.com/topics/artificial-intelligence
+
+https://learn.microsoft.com/azure/ai-services/
+
+https://en.wikipedia.org/wiki/Artificial_intelligence
+
+https://en.wikipedia.org/wiki/Machine_learning

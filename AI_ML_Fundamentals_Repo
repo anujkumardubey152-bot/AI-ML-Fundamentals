@@ -1,1 +1,112 @@
+# AI & Machine Learning Fundamentals Report
 
+## Introduction
+
+Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks requiring human intelligence. Machine Learning (ML) is a subset of AI that allows computers to learn from data without being explicitly programmed.
+
+---
+
+# What is Artificial Intelligence?
+
+Artificial Intelligence is the ability of machines to simulate human intelligence such as reasoning, learning, decision-making, and problem-solving.
+
+### Applications
+- Chatbots
+- Self-driving cars
+- Face recognition
+- Virtual assistants
+- Healthcare
+
+---
+
+# What is Machine Learning?
+
+Machine Learning is a method of teaching computers to learn patterns from data and improve their performance automatically.
+
+### Applications
+- Spam detection
+- Recommendation systems
+- Stock prediction
+- Fraud detection
+
+---
+
+# AI vs ML
+
+| Artificial Intelligence | Machine Learning |
+|--------------------------|------------------|
+| Broad field | Subset of AI |
+| Mimics intelligence | Learns from data |
+| Decision making | Pattern recognition |
+| Can work without learning | Always learns from data |
+
+---
+
+# Narrow AI vs General AI
+
+## Narrow AI
+
+Designed for one specific task.
+
+Examples:
+- Siri
+- Google Translate
+- Netflix Recommendation
+
+## General AI
+
+Can perform any intellectual task like a human.
+
+Examples:
+- Does not exist yet.
+- Still under research.
+
+---
+
+# Types of Machine Learning
+
+## 1. Supervised Learning
+
+Uses labeled data.
+
+Algorithms
+- Linear Regression
+- Decision Tree
+
+Applications
+- House Price Prediction
+- Spam Email Detection
+
+---
+
+## 2. Unsupervised Learning
+
+Uses unlabeled data.
+
+Algorithms
+- K-Means Clustering
+- Hierarchical Clustering
+
+Applications
+- Customer Segmentation
+- Market Basket Analysis
+
+---
+
+## 3. Reinforcement Learning
+
+Learns by trial and error using rewards.
+
+Algorithms
+- Q-Learning
+- Deep Q Network
+
+Applications
+- Robotics
+- Self Driving Cars
+
+---
+
+# Conclusion
+
+Artificial Intelligence and Machine Learning are transforming industries. Understanding their concepts is the first step toward becoming an AI engineer.
